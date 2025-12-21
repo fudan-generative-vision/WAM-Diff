@@ -1,0 +1,1 @@
+torchrun --master_addr=127.0.0.1 --master_port=12346 --nproc-per-node=1 ./train/generate_demo_navsim_moe.py --pretrained_path path_to_WAM-Diff_ckpt

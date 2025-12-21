@@ -1,0 +1,7 @@
+name: WAM-Diff
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
