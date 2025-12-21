@@ -19,14 +19,27 @@
     <sup>1</sup>Fudan University&emsp; <sup>2</sup>Yinwang Intelligent Technology Co., Ltd&emsp;
 </div>
 
+<br>
+<div align='center'>
+    <a href='https://github.com/fudan-generative-vision/WAM-Diff'><img src='https://img.shields.io/github/stars/fudan-generative-vision/WAM-Diff?style=social'></a>
+    <a href='https://arxiv.org/abs/2512.11872'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
+</div>
+<br>
+
+## 📰 News
+
+- **`2025/12/06`**: 🎉🎉🎉 Paper submitted on [Arxiv](https://arxiv.org/pdf/2512.11872).
 
 ## 📅️ Roadmap
 
 | Status | Milestone                                                                                             |    ETA     |
 | :----: | :----------------------------------------------------------------------------------------------------: | :--------: |
-|   🚀   | **[Releasing the inference source code](https://github.com/fudan-generative-vision/WAM-Diff)** | 2025.12.21      |
-|   🚀   | **[Releasing the training scripts](https://github.com/fudan-generative-vision/WAM-Diff)**                                                       | 2025.12.21      |
-|   🚀   | **[Pretrained models on Huggingface](https://huggingface.co/fudan-generative-ai/WAM-Diff)**              | TBD        |
+|   🚀   | **[Release the inference source code](https://github.com/fudan-generative-vision/WAM-Diff)** | 2025.12.21      |
+|   🚀   | **[Release the SFT and inf code](https://github.com/fudan-generative-vision/WAM-Diff)**                                                       | 2025.12.21      |
+|   🚀   | **[Release pretrained models on Huggingface](https://huggingface.co/fudan-generative-ai/WAM-Diff)**              | TBD        |
+|   🚀   | **[Release NAVSIM evaluation code](https://huggingface.co/fudan-generative-ai/WAM-Diff)**    | TBD |
+|   🚀   | **[Release the RL code](https://github.com/fudan-generative-vision/WAM-Diff)**   | TBD |
 
 
 ## 🔧️ Framework
