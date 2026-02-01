@@ -23,21 +23,23 @@
 <div align='center'>
     <a href='https://github.com/fudan-generative-vision/WAM-Diff'><img src='https://img.shields.io/github/stars/fudan-generative-vision/WAM-Diff?style=social'></a>
     <a href='https://arxiv.org/abs/2512.11872'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://huggingface.co/fudan-generative-ai/WAM-Diff'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
 
 </div>
 <br>
 
 ## 📰 News
 
+- **`2025/02/01`**: 🎉🎉🎉 Release the pretrained models on [Huggingface](https://huggingface.co/fudan-generative-ai/WAM-Diff).
 - **`2025/12/06`**: 🎉🎉🎉 Paper submitted on [Arxiv](https://arxiv.org/pdf/2512.11872).
 
 ## 📅️ Roadmap
 
 | Status | Milestone                                                                                             |    ETA     |
 | :----: | :----------------------------------------------------------------------------------------------------: | :--------: |
-|   🚀   | **[Release the inference source code](https://github.com/fudan-generative-vision/WAM-Diff)** | 2025.12.21      |
-|   🚀   | **[Release the SFT and inf code](https://github.com/fudan-generative-vision/WAM-Diff)**                                                       | 2025.12.21      |
-|   🚀   | **[Release pretrained models on Huggingface](https://huggingface.co/fudan-generative-ai/WAM-Diff)**              | TBD        |
+|   ✅  | **[Release the inference source code](https://github.com/fudan-generative-vision/WAM-Diff)** | 2025.12.21      |
+|   ✅   | **[Release the SFT and inf code](https://github.com/fudan-generative-vision/WAM-Diff)**                                                       | 2025.12.21      |
+|   ✅   | **[Release pretrained models on Huggingface](https://huggingface.co/fudan-generative-ai/WAM-Diff)**              | 2026.02.01       |
 |   🚀   | **[Release NAVSIM evaluation code](https://huggingface.co/fudan-generative-ai/WAM-Diff)**    | TBD |
 |   🚀   | **[Release the RL code](https://github.com/fudan-generative-vision/WAM-Diff)**   | TBD |
 
@@ -76,7 +78,7 @@ The WAM-Diff will be available on Hugging Face Hub soon. To quickly test the mod
    uv venv && uv sync
    ```
 3. **Prepare the Model**
-    Download the pretrained WAM-Diff model from Hugging Face (pending release) to the `./model/WAM-Diff` directory:
+    Download the pretrained [WAM-Diff](https://huggingface.co/fudan-generative-ai/WAM-Diff) model from Hugging Face to the `./model/WAM-Diff` directory:
     ```
     https://huggingface.co/fudan-generative-ai/WAM-Diff
     ```
